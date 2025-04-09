@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class WordList
+public class WordList;
 {
   private ArrayList <String> myList;
 
